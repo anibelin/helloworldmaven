@@ -16,5 +16,3 @@ node_modules/
 .grunt
 .svn
 .svnignore
-doc/
-**/java/com/**
